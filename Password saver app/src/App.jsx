@@ -2,7 +2,7 @@
 import './App.css'
 import Footer from './Component/Footer'
 import Navbar from './Component/Navbar'
-import Manager from './Component/manager'
+import Manager from './Component/Manager'
 
 function App() {
 
